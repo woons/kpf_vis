@@ -14,15 +14,14 @@
  + Carto를 활용한 맵핑시각화 실습 (맛집과 지진 데이터 활용)  
  ----------
  
- #### 샘플 데이터
+ #### 샘플 데이터 (위의 폴더 참고)
 + Google Spreadsheet
 + CSV
  + restraunt.csv
  + earthquake.csv
  
  ----------
- 
-  #### 활용할 툴 (tool)
-+ Infogram
-+ Carto
+#### 활용할 툴 (tool)
++ Infogram(https://infogr.am)
++ Carto(http://carto.com)
 + Google Spreadshhet
