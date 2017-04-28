@@ -37,3 +37,5 @@
 =IMPORTXML(A2, "//td[@class='post_subject']")
 데이터 정제 실습2 : https://goo.gl/vvl5Dv
 (.+)
+
+https://docs.google.com/spreadsheets/d/1I2sgWbJK5jJ9I9cMApGKKxoxNg6lbp6mi6IJ6jkWL3k/edit?usp=sharing
