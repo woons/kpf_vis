@@ -26,3 +26,14 @@
 + Infogram(https://infogr.am)
 + Carto(http://carto.com)
 + Google Spreadshhet
+
+#### 참고
+
+=IMPORTHTML("https://en.wikipedia.org/wiki/World_population", "table", 14)
+=IMPORTXML("http://www.nytimes.com", "//h2[@class='story-heading']")
+데이터 수집 실습1 : https://goo.gl/3oOvIx
+=IMPORTXML("http://score.sports.media.daum.net/record/baseball/kbo/brnk.daum", "//td[@class='txt_league']")
+데이터 수집 실습2 : https://goo.gl/3oOvIx
+=IMPORTXML(A2, "//td[@class='post_subject']")
+데이터 정제 실습2 : https://goo.gl/vvl5Dv
+(.+)
