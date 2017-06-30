@@ -1,7 +1,7 @@
 ## 데이터저널리즘(기초) 데이터시각화
 ##### 2017. 4. 27. Fri
 ----------
-
+https://docs.google.com/spreadsheets/d/13Z4aKlOlLvYYipa73db-7Odf5JMGdm3k75s-0wXomEc/edit#gid=0
 #### 강의 개요
 + 데이터시각화를 위한 데이터 리터러시 (Data Literacy)
 + 정성적 데이터의 정량화 그리고 시각화
